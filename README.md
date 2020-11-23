@@ -1,8 +1,6 @@
-### Hi there 👋
+## Hi there 👋🏻 
 
 <!--
-**vansul/vansul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+###  🙋🏻‍♂️ My name is Vaibhav Kaushik
+
+- 🏫 I'm currently studying in 8th Grade at Kendriya Vidyalaya Roing in :india:
+- 💬 Ask me about [Java](https://www.java.com), [Python](https://python.org), JavaScript, [TypeScript](https://www.typescriptlang.org), [Node.JS](https://nodejs.org), [Deno](https://deno.land), [GraphQL](https://grpahql.org), [React](https://reactjs.org), [Angular](https://angular.io), [Vue](https://vuejs.org), [MongoDB](https://mongodb.com), [Flutter](https://flutter.dev), [Dart](https://dart.dev), [Processing](https://processing.org), [p5.js](https://p5js.org) and [Prisma](https://prisma.io).
+- 📫 How to reach me: :email:[Email](vansul.ask@hotmail.com) 🔗[Website](https://vansul.ml/)
+- ⚡ Fun fact: I never lies🤞🏻
+
+#### My Github Stats
+![Vaibhav's github stats](https://github-readme-stats.vercel.app/api?username=vansul&show_icons=true&theme=radical)
