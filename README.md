@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: :email:[Email](vansul.ask@hotmail.com) 🔗[Website](https://vansul.ml/)
 - ⚡ Fun fact: I never lies🤞🏻
 
-### Spotify Playing 🎧
+### Spotify 🎧
 ![Spotify](https://spotify-now-playing.vansul.vercel.app/api/spotify)
 
 ### My Github Stats
